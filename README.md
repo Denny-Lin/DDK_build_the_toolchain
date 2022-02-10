@@ -39,10 +39,10 @@ ct-ng --help &nbsp;
 # Configure your toolchain
 ./ct-ng arm-cortex_a8-linux-gnueabi &nbsp;
 
-  CONF  arm-cortex_a8-linux-gnueabi
-#
-# configuration written to .config
-#
+  CONF  arm-cortex_a8-linux-gnueabi &nbsp;
+# <br/>
+# configuration written to .config <br/>
+# <br/>
 
 *********************************************************** &nbsp;
 
