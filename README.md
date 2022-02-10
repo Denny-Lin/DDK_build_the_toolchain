@@ -26,7 +26,7 @@ automake: error: cannot open < verbatim-data.mk: No such file or directory > <br
 
 The bootstrap can create the verbatim-data.mk. &nbsp;
 
-# Create the Crosstool-NG
+# Build the Crosstool-NG
 make &nbsp;
 
 # Install the Crosstool-NG
