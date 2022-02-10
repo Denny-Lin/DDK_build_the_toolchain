@@ -56,5 +56,8 @@ Now configured for "arm-cortex_a8-linux-gnueabi"
 
 ```
 
-# Build the toolchain
+# Build your toolchain
 ./ct-ng build &nbsp;
+
+# ...
+... &nbsp;
