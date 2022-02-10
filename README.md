@@ -9,7 +9,7 @@ Linux ubuntu 5.13.0-28-generic #31~20.04.1-Ubuntu SMP Wed Jan 19 14:08:10 UTC 20
 Target machine <br/>
 arm &nbsp;
 
-# Download Crosstool-NG
+# Download the source files of the Crosstool-NG
 git clone https://github.com/crosstool-ng/crosstool-ng crosstool-ng <br/>
 cd crosstool-ng &nbsp;
 
