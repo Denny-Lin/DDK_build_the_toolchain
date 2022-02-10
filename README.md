@@ -32,7 +32,7 @@ make &nbsp;
 # Install the Crosstool-NG
 sudo make install &nbsp;
 
-# Check the Crosstool-NG version
+# Check the version of the Crosstool-NG 
 ct-ng --version <br/>
 ct-ng --help &nbsp;
 
