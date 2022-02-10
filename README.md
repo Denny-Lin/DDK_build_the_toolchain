@@ -54,7 +54,6 @@ URL: http://ymorin.is-a-geek.org/
 
 Now configured for "arm-cortex_a8-linux-gnueabi" 
 
------------------------------------------------------------------------------- 
 ```
 
 # Build the toolchain
