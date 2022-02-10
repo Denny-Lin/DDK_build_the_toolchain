@@ -21,7 +21,7 @@ config.status: error: cannot find input file: `Makefile.in' <br/>
 ./autoreconf &nbsp;
 
 ## Issue
-automake: error: cannot open < verbatim-data.mk: No such file or directory <br/>
+automake: error: cannot open < verbatim-data.mk: No such file or directory > <br/>
 ./bootstrap &nbsp;
 
 The bootstrap can create the verbatim-data.mk. &nbsp;
